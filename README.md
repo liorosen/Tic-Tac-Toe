@@ -5,9 +5,13 @@ This project is a Python implementation of the classic Tic-Tac-Toe game, providi
 
 ## **Features**
 Two-Player Mode: Allows two human players to compete against each other.
+
 Interactive Gameplay: Players take turns to input their moves, with the game board updating in real-time.
+
 Input Validation: Ensures that players enter valid moves, preventing overwriting of existing moves and out-of-bound entries.
+
 Win Detection: Automatically checks for win conditions after each move and declares the winner.
+
 Draw Detection: Identifies when the game ends in a draw if all positions are filled without a winner.
 
 ## **Technologies Used**
