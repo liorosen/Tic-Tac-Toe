@@ -12,4 +12,5 @@ Draw Detection: Identifies when the game ends in a draw if all positions are fil
 
 ## **Technologies Used**
 Python: Core programming language used for game logic.
+
 Jupyter Notebook: Environment for running and interacting with the game.
